@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "401148588490",
+    "firebase_url": "https://loja-virtual-3436e-default-rtdb.firebaseio.com",
+    "project_id": "loja-virtual-3436e",
+    "storage_bucket": "loja-virtual-3436e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401148588490:android:8200f5e5cc832ce1d3df33",
+        "android_client_info": {
+          "package_name": "br.com.santana.loja_virtual_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401148588490-mnhtoc9etn6veb1gq7uucb1ort8p6d82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.santana.loja_virtual_pro",
+            "certificate_hash": "15f9e74603ae81c60d4b362da86711cbb664256c"
+          }
+        },
+        {
+          "client_id": "401148588490-e6k5lvluf044k2cvcagvoqiib79c4j9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuAmI7od6MA72G1SyULdqf1pB5qU2LUsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401148588490-e6k5lvluf044k2cvcagvoqiib79c4j9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
